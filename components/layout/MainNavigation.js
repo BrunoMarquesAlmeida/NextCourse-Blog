@@ -18,7 +18,7 @@ export default function MainNavigation() {
           </li>
 
           <li>
-            <Link href="/contect">Contacts</Link>
+            <Link href="/contact">Contacts</Link>
           </li>
         </ul>
       </nav>
